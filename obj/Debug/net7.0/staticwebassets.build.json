@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PJQQxgWIIqXzNjg1K3hw0L00+BHu3+V8pppPPxKpyd0=",
+  "Source": "CsvSeederWebAPI",
+  "BasePath": "_content/CsvSeederWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
